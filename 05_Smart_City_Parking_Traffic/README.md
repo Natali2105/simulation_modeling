@@ -15,8 +15,6 @@ Road Traffic Library: Спроектирована топология дорож
 
 road_topology.png — Дорожная сеть с кольцами и табло.
 
-smart_traffic_lights.png — Диаграммы состояний светофоров (RedPhase/GreenPhase).
-
-logic_flowchart.png — Блок-схемы, с задержками (delay) и шлагбаумом (payment).
+traffic_lights_logic.png — Диаграммы состояний светофоров (RedPhase/GreenPhase).
 
 analytics_dashboard.png — Графики загруженности и гистограммы времени стоянки.
